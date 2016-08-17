@@ -1,3 +1,29 @@
+2016 FOSS4G BINGO (unofficial)
+**BINGO**
+My co-worker Calvin has started to make event bingo cards for conferences he attends. Calvin’s bingo is a game  where you get a sheet with rows and columns filled with random potential words you will hear at an event. Once you have been able to check off that you have heard words across a full column you have achieved bingo. If you have done this before anyone else, then you win a prize.
+
+It looks something like this:
+
+https://d2mxuefqeaa7sj.cloudfront.net/s_9371CFF8EC29ECD616EAF243A17806057B25A30906915B4FE067535222E1E264_1470677670695_bingo.jpg
+
+
+The rules and prizes will be announced by the 20th.
+
+Here is a link to Calvin’s bingo making machine: https://calvinmetcalf.github.io/bingo/
+
+**Please Help**
+Please help us build a list of words for FOSS4G Bonn 2016 (unofficial) Bingo by adding a word/phrase related to the conference below: (please keep it clean and try to make it specific… “the” does not count). We will keep filtering the list to help make it clear what ideas are most useful for our process.
+
+----------
+
+**The List**
+
+----------
+
+**Useful Terms**
+
+----------
+
 3D
 AppGeo
 ArcMap
@@ -92,10 +118,10 @@ Mapbox
 Maplarge
 MapServer
 Maptime
-map reduce
+map reduce 
 mbtiles
 metadata
-dismissive analogy to Microsoft
+dismissive analogy to Microsoft 
 mobile
 NSA
 Node.js
@@ -167,3 +193,52 @@ wms
 wmts
 XML (spoken about positively)
 XML (spoken about in anger)
+
+# less useful terms
+----------
+
+bridge
+911
+2017
+airport
+beach
+beer
+boat
+crash
+
+demo
+fun
+government
+harbor
+historic
+island
+knitting
+label
+lake
+laugh
+library
+login
+mountain
+music
+open
+passion
+RDF
+Release
+social
+sos
+sparql
+station
+
+workshop
+www
+Bonn
+
+----------
+
+**Prizes**
+
+----------
+- Maple sugar candy
+- NEAQ stuffed animals
+- NEAQ salt water taffy
+

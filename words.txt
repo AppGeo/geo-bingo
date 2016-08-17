@@ -92,10 +92,10 @@ Mapbox
 Maplarge
 MapServer
 Maptime
-map reduce 
+map reduce
 mbtiles
 metadata
-dismissive analogy to Microsoft 
+dismissive analogy to Microsoft
 mobile
 NSA
 Node.js
